@@ -1,0 +1,4 @@
+# Pi-hole blocklists managed by grok-pihole, one address per line.
+# This file is the full list: `piholectl.py sync` adds what's here and
+# removes any blocklist that isn't. It refuses to run while this file is empty.
+# Next step: paste the output of `piholectl.py export` here.

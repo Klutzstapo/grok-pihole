@@ -3,3 +3,8 @@
 # removes any blocklist that isn't. It refuses to run while this file is empty.
 # Lists below were exported from the live Pi-hole on 2026-11-16.
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+# Added 2026-11-17: OISD small (low false-positive ad/tracker/malware list)
+https://small.oisd.nl/domainswild2
+# Added 2026-11-17: EasyPrivacy tracker list, domains format via Firebog (ticked)
+https://v.firebog.net/hosts/Easyprivacy.txt

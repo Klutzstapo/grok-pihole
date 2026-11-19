@@ -8,3 +8,6 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://small.oisd.nl/domainswild2
 # Added 2026-11-17: EasyPrivacy tracker list, domains format via Firebog (ticked)
 https://v.firebog.net/hosts/Easyprivacy.txt
+
+# Added 2026-11-19: Admiral anti-adblock domains via Firebog (ticked, LanikSJ upstream)
+https://v.firebog.net/hosts/Admiral.txt

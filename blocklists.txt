@@ -13,4 +13,4 @@ https://v.firebog.net/hosts/Easyprivacy.txt
 https://v.firebog.net/hosts/Admiral.txt
 
 # Added 2026-11-20: HaGeZi Light (low false-positive ad/tracker list, actively maintained)
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/light-onlydomains.txt

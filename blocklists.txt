@@ -19,3 +19,6 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/light-only
 https://v.firebog.net/hosts/Easylist.txt
 # Added 2026-11-22: AdGuard DNS filter via Firebog (ticked, domains format)
 https://v.firebog.net/hosts/AdguardDNS.txt
+
+# Added 2026-11-23: Frogeye first-party trackers (Firebog ticked, regenerated daily; catches CNAME-cloaked trackers)
+https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt

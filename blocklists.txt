@@ -22,3 +22,6 @@ https://v.firebog.net/hosts/AdguardDNS.txt
 
 # Added 2026-11-23: Frogeye first-party trackers (Firebog ticked, regenerated daily; catches CNAME-cloaked trackers)
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+
+# Added 2026-11-24: Peter Lowe's ad and tracking server list (Firebog ticked, updated 2026-11-22)
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
